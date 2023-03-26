@@ -1,0 +1,12 @@
+fastapi[all]~=0.95.0
+uvicorn[standard]
+python-jose[cryptography]
+passlib[bcrypt]~=1.7.4
+sqlalchemy==2.0.7
+mysqlclient
+alembic~=1.10.2
+email-validator
+httpx
+python-dotenv~=1.0.0
+fastapi-pagination[all]
+pytest
